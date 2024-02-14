@@ -1,0 +1,4 @@
+#Student
+#Tue Jan 23 15:51:15 IST 2024
+age=25
+name=Aniket

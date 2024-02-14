@@ -1,0 +1,11 @@
+232. Generics In Java
+
+class  object 
+
+array of objects
+
+generic type array
+    * type safety
+    * compile time cheacking 
+    * no typecasting
+

@@ -1,0 +1,3 @@
+packages are folders
+
+outer class can't be private or protected it's public or default
